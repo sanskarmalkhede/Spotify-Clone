@@ -1,6 +1,6 @@
 # Spotify Clone
 
-Spotify Clone is a Spotify clone that replicates the core functionalities of the popular music streaming platform. This project is developed using [insert tech stack here], providing a robust and user-friendly music experience.
+"Spotify Clone" is a Spotify clone that replicates the core functionalities of the popular music streaming platform. This project is developed using React, providing a robust and user-friendly music experience.
 
 ## Features
 
