@@ -10,9 +10,6 @@ Spotify Clone is a Spotify clone that replicates the core functionalities of the
 - **User Authentication:** Securely log in, and keep your music preferences and playlists synchronized.
 - **Social Sharing:** Share your favorite tracks and playlists with friends on social media.
 
-## Tech Stack
-
-React
 
 ## 🛠 set-up
 
