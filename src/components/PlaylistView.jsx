@@ -46,17 +46,17 @@ export const PlaylistView = () => {
       <div className="playlist-container">
         {Playlist.map((item) => {
           return (
-            <div className="playlist-item" key={item.id}>
-              <div className="playlist-item-id">
+            <div className="playlist-list" key={item.id}>
+              <div className="playlist-list-id">
                 {item.id}
               </div>
-              <div className="playlist-item-title">
+              <div className="playlist-list-title">
                 {item.title}
               </div>
-              <div className="playlist-item-album">
+              <div className="playlist-list-album">
                 {item.album}
               </div>
-              <div className="playlist-item-duration">
+              <div className="playlist-list-duration">
                 {item.duration}
               </div>
             </div>
