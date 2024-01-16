@@ -16,7 +16,9 @@ export default function App() {
                     <PlaylistView />
                 </div>
             </div>
-            <Footer />
+            <div className="footer">
+                <Footer />
+            </div>
         </>
     )
 }
