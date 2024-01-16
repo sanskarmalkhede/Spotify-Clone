@@ -1,0 +1,39 @@
+.sidebar {
+  color: white;
+  width: 100%;
+}
+.block-1 {
+  background: linear-gradient(transparent, black);
+  background-color: #040D12;
+  border-radius: 6px;
+  width: 37vh;
+  margin: 8px;
+  padding: 4px;
+}
+.block-2 {
+  background: linear-gradient(transparent, black);
+  background-color: #040D12;
+  border-radius: 6px;
+  width: 37vh;
+  margin: 8px;
+  padding: 4px;
+}
+.sidebar-items {
+  display: flex;
+  align-self: start;
+  margin: 20px;
+  gap: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.sidebar-playlists {
+  display: flex;
+  align-self: start;
+  margin: 15px;
+  gap: 8px;
+  font-weight: light;
+  cursor: pointer;
+  background-color: #242424;
+  padding: 12px;
+  border-radius: 6px;
+}
