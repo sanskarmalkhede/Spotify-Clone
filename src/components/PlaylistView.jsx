@@ -23,7 +23,7 @@ export const PlaylistView = () => {
         </div>
         <div className="playlist-body">
           <p>Playlist</p>
-          <h1>Top Hits of 2010s</h1>
+          <h1>lovey dubby bullshit</h1>
           <p>By Spotify</p>
         </div>
       </div>

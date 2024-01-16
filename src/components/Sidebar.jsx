@@ -10,14 +10,14 @@ const myPlaylist = [
   { id: 1, name: 'Liked Songs' },
   { id: 2, name: 'free thug' },
   { id: 3, name: 'Indie India' },
-  { id: 4, name: 'lofi beats' },
+  { id: 4, name: 'lovey dubby bullshit' },
   { id: 5, name: 'Punjabi 101' },
   { id: 6, name: 'Playlist: R&B' },
   { id: 7, name: 'bollywood bangers' },
   { id: 8, name: 'Underground' },
   { id: 9, name: 'Seedhe Maut ke bina kya jeevan hai' },
   { id: 10, name: 'The Melodic Blue' },
-  { id: 11, name: 'lovey dubby bullshit' }
+  { id: 11, name: 'lofi beats' }
 ];
 
 export const Sidebar = () => {
@@ -34,7 +34,7 @@ export const Sidebar = () => {
             {
               myPlaylist.map((item) => {
                 return (
-                  <div className="sidebar-playlists" key={item.id}>
+                  <div className="sidebar-playlists" key={item.id} id={`item-${item.id}`}>
                     {item.name}
                   </div>
                 )
