@@ -10,6 +10,7 @@
 - **User Authentication:** Securely log in, and keep your music preferences and playlists synchronized.
 - **Social Sharing:** Share your favorite tracks and playlists with friends on social media.
 
+<a href="https://imgur.com/7LtQtAa"><img src="https://i.imgur.com/7LtQtAa.png" title="source: imgur.com" /></a>
 
 ## 🛠 set-up
 
